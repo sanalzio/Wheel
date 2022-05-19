@@ -1,2 +1,0 @@
-# Wheel
-My TÜBİTAK Project
